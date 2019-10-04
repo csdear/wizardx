@@ -3,6 +3,15 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#WYAM
+config.wyam
+config.wyam.dll
+config.wyam.hash
+config.wyam.packages.xml
+wwwroot/
+tools/
+
+
 # User-specific files
 *.suo
 *.user

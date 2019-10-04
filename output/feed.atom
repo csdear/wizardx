@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://host.com/</id>
+	<title>WizardX Blog</title>
+	<link rel="self" href="http://host.com/" />
+	<rights>2019</rights>
+	<updated>2019-10-04T10:27:27Z</updated>
+	<subtitle>WizardX!</subtitle>
+	<entry>
+		<id>http://host.com/posts/second-post</id>
+		<title>Second Post</title>
+		<link href="http://host.com/posts/second-post" />
+		<updated>2019-10-04T00:00:00Z</updated>
+		<content>&lt;p&gt;This is my second post!&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://cdn.wizard-x.net/assets/images/redrusty.png" class="img-fluid" alt="sandrusty.png" /&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;This is my second post!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://host.com/posts/first-post</id>
+		<title>First Post</title>
+		<link href="http://host.com/posts/first-post" />
+		<updated>2016-01-01T00:00:00Z</updated>
+		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
+	</entry>
+</feed>
